@@ -1,1 +1,14 @@
 backend/event-managment-2a5ae-firebase-adminsdk-fbsvc-4597a2118f.json
+
+
+backend/.env
+backend/env
+backend/*.json
+backend/!package*.json
+
+
+backend/*firebase-adminsdk*.json
+
+
+frontend/.env
+frontend/env
